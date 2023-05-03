@@ -1,0 +1,25 @@
+focar na explicação do problema
+características gerais do problema
+até 4 páginas com problema, resumo, metodologia e resultados
+básico:
+    - matriz de confusão (classsificação)
+    - curva do erro (regressão)
+adicionais são bem-vindos:
+    - F1-score
+    - Curva ROC
+    ....
+usar o KFold (fazer o boxplot)
+marcar a curva dos erros
+
+
+referências:
+Análise exploratória:
+    - https://www.kaggle.com/code/amanpatyal/exploratory-analysis-bankchurners-csv/notebook
+    - https://www.kaggle.com/code/igorfeitosa18/cart-es-de-cr-dito-cancelados-an-lise-de-dados
+    - https://www.kaggle.com/code/eltiganihamad/bank-customer-churn-classification
+    - https://www.kaggle.com/code/kishantongrao/credit-card-customer-eda-analysis
+
+Modelagem:
+    - https://www.kaggle.com/code/nkitgupta/bank-churn-prediction-auc-0-98
+    - https://www.kaggle.com/code/miguelfzzz/customer-churn-smote-pca-clusters-prediction (cluster + classsificação)
+    
