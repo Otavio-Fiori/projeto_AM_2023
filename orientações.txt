@@ -22,4 +22,6 @@ Análise exploratória:
 Modelagem:
     - https://www.kaggle.com/code/nkitgupta/bank-churn-prediction-auc-0-98
     - https://www.kaggle.com/code/miguelfzzz/customer-churn-smote-pca-clusters-prediction (cluster + classsificação)
-    
+
+    pegar referência de outlier
+    pegar referência de roc auc socre
